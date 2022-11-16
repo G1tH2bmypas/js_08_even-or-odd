@@ -7,7 +7,7 @@ function evenOrOdd(n) {
 		return 'ODD';
 	} else if ( n % 2 === 0 ){
 		return 'EVEN';
-	};
+	}
 }
 
 module.exports = evenOrOdd;
